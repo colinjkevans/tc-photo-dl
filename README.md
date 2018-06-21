@@ -10,4 +10,4 @@ Install requests and beautiful soup packages:
 
 Download `main.py` and set the `user =` and `password =` values
 
-Double-click `main.py` to run it
+Double-click `main.py` to run it (or run `python main.py` from cmd)
