@@ -11,3 +11,5 @@ Install requests and beautiful soup packages:
 Download `main.py` and set the `user =` and `password =` values
 
 Double-click `main.py` to run it (or run `python main.py` from cmd)
+
+Wait for images to download to directories under `main.py`'s location
