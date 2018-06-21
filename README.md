@@ -8,7 +8,7 @@ Install requests and beautiful soup packages:
 - `pip install requests`
 - `pip install beautifulsoup4`
 
-Download `main.py` and set the `user =` and `password =` values
+Download `main.py`, open with notepad, set the `user =` and `password =` values and save.
 
 Double-click `main.py` to run it (or run `python main.py` from cmd)
 
