@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 
 
 LOGIN_URL = 'https://www.transparentclassroom.com/souls/sign_in?locale=en'
-ALBUM_URL = 'https://www.transparentclassroom.com/s/144/children/{}/pictures?locale=en'
 URL_ROOT = 'https://www.transparentclassroom.com{}'
 PICTURES_SUFFIX = '/pictures'
 
